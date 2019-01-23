@@ -1,4 +1,4 @@
-# Pracitca 0
+# Prácitca 0
 ## Objetivo:
 Compilar y correr xv6
 
