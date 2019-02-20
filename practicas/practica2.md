@@ -16,3 +16,4 @@ gcc
 
 ## Url del commit:
 
+##¿Cómo se relaciona con los conceptos anteriores?
