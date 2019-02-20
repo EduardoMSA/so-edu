@@ -13,7 +13,8 @@ gcc
 * El proceso hijo manda a llamar a exec para ejecutar otro codigo
 
 ## ¿Que aprendí?
+Como ejecutar un comando anterior en xv6, para esto se tuvo que modificar el archivo sh.c en donde se tuvo que guardar el buf anterior para poder ejecutarlo en caso de que se ponga un comando especifico.
 
 ## Url del commit:
+[Commit](https://github.com/EduardoMSA/so-edu/commit/ef07857cfaee86928baa5a379f739a8b75ce9817)
 
-##¿Cómo se relaciona con los conceptos anteriores?
