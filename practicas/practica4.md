@@ -32,3 +32,6 @@ Si hay dos o mas con prioridades iguales el primero de la lista.
 ## ¿Cómo se relaciona?
 + Llamadas de sistema
 + Procesos
+
+## [Commit](https://github.com/EduardoMSA/so-edu/commit/7aa3513ab24f39d57a36b033951dd3838c27a1fc)
+
