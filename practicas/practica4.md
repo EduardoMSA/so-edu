@@ -4,9 +4,9 @@ El proceso con mayor prioridad se ejecuta primero.
 Si hay dos o mas con prioridades iguales el primero de la lista.
 
 ## Herramientas
-git
-make
-gcc
++ git
++ make
++ gcc
 
 ## Conceptos
 1) Proceso (Se los voy a preguntar)
