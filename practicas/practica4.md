@@ -22,7 +22,7 @@ gcc
   + RUNNING
   + ZOMBIE
 
-4) Cambiio de contexto. 
+4) Cambio de contexto. 
   + Ocurre cuando el cpu deja de ejecutar un proceso para ejecutar otro.
   + Guardar el Program Counter y la dirección del stack del proceso actual.
   + Restaurar el Program COunter y la dirección del nuevo proceso.
