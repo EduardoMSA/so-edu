@@ -15,6 +15,12 @@ gcc
   + Es el mecanismo que el sistema operativo tiene para asignarle el cpu a un proceso.
 
 3) Estados de un procesos
+  + UNUSED
+  + EMBRYO
+  + SLEEPING
+  + RUNNABLE
+  + RUNNING
+  + ZOMBIE
 
 4) Cambiio de contexto. 
   + Ocurre cuando el cpu deja de ejecutar un proceso para ejecutar otro.
