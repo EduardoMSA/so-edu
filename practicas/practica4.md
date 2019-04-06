@@ -9,7 +9,7 @@ Si hay dos o mas con prioridades iguales el primero de la lista.
 + gcc
 
 ## Conceptos
-1) Proceso (Se los voy a preguntar)
+1) Proceso
 
 2) Planificación de procesos. 
   + Es el mecanismo que el sistema operativo tiene para asignarle el cpu a un proceso.
@@ -28,6 +28,7 @@ Si hay dos o mas con prioridades iguales el primero de la lista.
   + Restaurar el Program Counter y la dirección del nuevo proceso.
 
 ## ¿Qué aprendí?
++ Aprendí como crear una llamada a sistema que establesca una prioridad de un proceso, además se determinó que es un proceso y los estados que pueden tener estos. 
 
 ## ¿Cómo se relaciona?
 + Llamadas de sistema
